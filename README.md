@@ -1,6 +1,4 @@
-#Certificates & Achievements
-
-#Certificates
+Certificates
 
 ### 1. LOOPVERSE 2.0
 - **Title:** Certificate of Participation
